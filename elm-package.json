@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "0.1.0",
     "summary": "tools for handling geodesic calculations",
     "repository": "https://github.com/fmobus/elm-geodesics.git",
     "license": "MIT",
